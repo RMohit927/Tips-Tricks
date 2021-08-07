@@ -38,5 +38,5 @@ Congratulation! RabbitMQ Has been Installed in your System
      4. open browser and type `http://localhost:15672/`
      5. Congratulation! Now You are able to work with RabbitMQ Dashboard
  
-Thank you!
+Thank you!</br>
 Stay Happy, Stay Safe.
