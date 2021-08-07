@@ -25,4 +25,18 @@
 
 Congratulation! RabbitMQ Has been Installed in your System
 
-Thank you
+## Still if you not able to see `RabbitMQ Desktop` then follow below steps
+
+1. First Open `cmd` Run As Administrator
+2. goto this path `C:\Program Files\RabbitMQ Server\rabbitmq_server-3.9.1\sbin` and copy
+3. open cmd and type `cd C:\Program Files\RabbitMQ Server\rabbitmq_server-3.9.1\sbin`
+4. Run First `rabbitmq-plugins enable rabbitmq_management`
+5. Then Run Three commands:
+     1. `Rabbitmq-service stop`
+     2. `Rabbitmq-service install`
+     3. `Rabbitmq-service start`
+     4. open browser and type `http://localhost:15672/`
+     5. Congratulation! Now You are able to work with RabbitMQ Dashboard
+ 
+Thank you!
+Stay Happy, Stay Safe.
